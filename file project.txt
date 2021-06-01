@@ -5,3 +5,4 @@ nomor handphone : 085342550248
                   
 Alamat          : Kota Gorontalo
                   "------------"
+jurusan         : Informatika
